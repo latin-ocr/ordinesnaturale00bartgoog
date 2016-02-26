@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinesnaturale00bartgoog/ordinesnaturale00bartgoog_0009.png"; bbox 0 0 2816 4799; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 1582 2373 1840">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 1582 2410 1840">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 1582 2373 1840; baseline 0.009 -73"><span class='ocrx_word' id='word_1_1' title='bbox 200 1594 1065 1814; x_wconf 58' lang='lat' dir='ltr'><strong>caumas</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1239 1582 2373 1840; x_wconf 66' lang='lat' dir='ltr'><strong>NATURAL&#39;ES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 664 1980 2230 2185">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 664 1914 2230 2185">
+     <span class='ocr_line' id='line_1_2' title="bbox 664 1980 2230 2185; baseline 0.008 -74"><span class='ocrx_word' id='word_1_3' title='bbox 664 1980 1957 2185; x_wconf 53' lang='lat' dir='ltr'>PLANTARUM÷</span> <span class='ocrx_word' id='word_1_4' title='bbox 2162 2013 2230 2147; x_wconf 67' lang='lat' dir='ltr'>A</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

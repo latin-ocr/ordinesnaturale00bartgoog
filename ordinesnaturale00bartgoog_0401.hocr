@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinesnaturale00bartgoog/ordinesnaturale00bartgoog_0401.png"; bbox 0 0 2816 4799; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 983 260 1624 381">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 983 260 1624 381">
+     <span class='ocr_line' id='line_1_1' title="bbox 983 260 1624 381; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 983 335 1088 354; x_wconf 88' lang='lat'>-</span> <span class='ocrx_word' id='word_1_2' title='bbox 1187 305 1346 381; x_wconf 84' lang='lat'><strong>373.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1449 260 1624 349; x_wconf 75' lang='grc'><strong>-’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 189 428 2352 572">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 189 428 2352 572">
+     <span class='ocr_line' id='line_1_2' title="bbox 189 428 2352 572; baseline -0.003 -22"><span class='ocrx_word' id='word_1_4' title='bbox 189 463 221 549; x_wconf 36' lang='lat'><strong>⁸.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 343 477 575 568; x_wconf 68' lang='lat' dir='ltr'>calyx</span> <span class='ocrx_word' id='word_1_6' title='bbox 641 475 851 567; x_wconf 45' lang='lat' dir='ltr'><strong>libprs</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 908 476 1290 572; x_wconf 62' lang='lat' dir='ltr'><strong>tripartitus,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1355 428 1759 563; x_wconf 47' lang='lat' dir='ltr'><strong>persisstenn</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1816 465 2170 565; x_wconf 63' lang='lat' dir='ltr'><strong>‘segmen‘tis</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2236 501 2352 568; x_wconf 79' lang='lat' dir='ltr'><strong>per</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 197 580 2418 645">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 197 580 2418 645">
+     <span class='ocr_line' id='line_1_3' title="bbox 197 580 2418 645; baseline -0 0"><span class='ocrx_word' id='word_1_11' title='bbox 197 585 676 645; x_wconf 68' lang='lat' dir='ltr'>aestivationem</span> <span class='ocrx_word' id='word_1_12' title='bbox 737 581 1098 645; x_wconf 73' lang='lat' dir='ltr'><strong>imbricatis,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1157 580 1415 645; x_wconf 71' lang='grc' dir='ltr'>-Τοηιε</span> <span class='ocrx_word' id='word_1_14' title='bbox 1485 581 1827 645; x_wconf 79' lang='lat' dir='ltr'><strong>obsoletus.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1930 582 2156 645; x_wconf 81' lang='lat' dir='ltr'>Petala</span> <span class='ocrx_word' id='word_1_16' title='bbox 2210 583 2349 645; x_wconf 75' lang='lat' dir='ltr'><strong>tria.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2411 642 2418 643; x_wconf 19' lang='lat' dir='ltr'><em>ff</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

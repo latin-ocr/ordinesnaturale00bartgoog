@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordinesnaturale00bartgoog/ordinesnaturale00bartgoog_0312.png"; bbox 0 0 2816 4799; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1230 213 1892 365">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1230 213 1892 365">
+     <span class='ocr_line' id='line_1_1' title="bbox 1230 213 1892 365; baseline 0.009 -38"><span class='ocrx_word' id='word_1_1' title='bbox 1230 301 1331 327; x_wconf 35' lang='grc' dir='ltr'><strong>...τ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1431 227 1585 365; x_wconf 62' lang='lat'><strong>284</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1682 213 1892 333; x_wconf 82' lang='grc'><strong>,-.·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 437 447 2575 519">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 437 447 2575 519">
+     <span class='ocr_line' id='line_1_2' title="bbox 437 447 2544 519; baseline 0.001 -4"><span class='ocrx_word' id='word_1_4' title='bbox 437 448 749 519; x_wconf 70' lang='lat' dir='ltr'><strong>nundob</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 783 450 1007 519; x_wconf 80' lang='lat' dir='ltr'><strong>florem</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1058 447 1431 514; x_wconf 76' lang='lat' dir='ltr'><strong>reclinatum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1484 468 1737 519; x_wconf 67' lang='lat' dir='ltr'><strong>semper</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1778 448 1914 517; x_wconf 85' lang='lat' dir='ltr'>fere</span> <span class='ocrx_word' id='word_1_9' title='bbox 1965 448 2249 519; x_wconf 72' lang='lat' dir='ltr'>infimum</span> <span class='ocrx_word' id='word_1_10' title='bbox 2340 473 2383 516; x_wconf 82' lang='lat' dir='ltr'><strong>a</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2466 451 2544 517; x_wconf 80' lang='lat' dir='ltr'><strong>eli</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2262 473 2575 519; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 2262 496 2281 519; x_wconf 79' lang='lat'><strong>..</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2383 497 2385 500; x_wconf 54' lang='lat'>&gt;</span> <span class='ocrx_word' id='word_1_14' title='bbox 2431 473 2463 515; x_wconf 83' lang='grc' dir='ltr'><strong>ι·</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2549 493 2575 504; x_wconf 88' lang='grc'>-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
